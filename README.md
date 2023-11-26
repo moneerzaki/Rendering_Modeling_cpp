@@ -5,3 +5,5 @@ using cpp to perform what is called blinn-phong rendering to the scene which is 
 if you are using gcc compiler then make sure to go to the directory of the src code which is ./code and run the following command
 <br> ` g++ main.cc -o main -I ..\json-develop\json-develop\include. `
 
+<br> and then you will be able to run the .exe file main.exe
+
