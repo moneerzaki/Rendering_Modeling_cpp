@@ -1,0 +1,69 @@
+RayTracer: 
+- Image write (ppm format) 
+	(done) 
+	(demonstrated fully)
+- Camera implemenation, with coordinate transofmation 
+	(done)
+	(demonstrated fully)
+- Intersection test (sphere, triangle, cylinder) 
+	(done)
+	(demonstrated fully)
+- Binary image writing (intersection/ no intersection)
+	(demonstrated fully)
+- Blinn-Phong shading 
+	(done)
+	(demonstrated fully)
+- shadows 
+	(done) 
+	(demonstrated fully) 
+- Textures (on sphere, triangle, cylinder) 
+	(done)
+	(demonstrated partially working)
+- tone mapping (linear) 
+	(done)
+	(demonstrated fully)
+- reflection 
+	(done)
+	(demonstrated fully )
+- refraction 
+	(done)
+	(demonstrated fully)
+- bounding volume hierarchy as an acceleration structure
+	(done)
+	(multithreaded is used instead of BVH which also helped in)
+
+
+
+Pathtracer: 
+- antialising via multisampling pixels 
+	(done) 
+	(demonstrated fully)
+- defocus in finite aperture cameras by sampling the camera's aperture 
+	(done)
+	(demonstrated fully)
+- render materials with BDRF's (microfacet) 
+	()
+- soft shadows via smapling area lights. 
+	()
+- multi-boune path tracing 
+	(done) 
+	(demonstrated fully)
+
+
+
+Video: 
+- The video should be a minimum of 10 seconds long. 
+	(done)
+	(demonstrated fully)
+-  The camera should be in motion during the video
+	(done)
+	(demonstrated fully)
+-  The scene used for the video should be interesting i.e. it should include some features such as textures, moving shapes, moving lights, etc. 	
+	(done)
+	(demonstrated fully)
+- .mp4 format 
+	(done)
+	(demonstrated fully)
+- render quality should be reasonable (resolution, sample count, frame-rate, etc.)
+	(done)
+	(demonstrated fully)
