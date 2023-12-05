@@ -28,5 +28,8 @@ phong rendering for another scene.
 
 final binary rendering images for different scenes and json files in the project 
 ![binary_mirror_image](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/9c244922-b4dc-41d8-b1aa-64a3256bca83)
+![binary_scene](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/83bbd5ba-88a0-482d-b6e5-21116b100daa)
+![binary_simple_phong](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/78008341-3eff-479f-9282-93dd2cbcaf79)
+
 
 
