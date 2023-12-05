@@ -13,6 +13,11 @@ More options to run binary rendering on the same file, "scene.json," or even to 
  For Linus users, there is a Makefile to use so, simply you can open the command line in the ./code directory and run the command
  `make`
 
+ # video for the final phong rendering process 
+https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/2b20cfa9-666a-4955-a921-e756b4f52064
+
+
+
  # images for phong rendering process 
 
  final phong rendering image with added wooden texture to the ground ....
