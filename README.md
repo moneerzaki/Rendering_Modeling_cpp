@@ -14,5 +14,19 @@ More options to run binary rendering on the same file, "scene.json," or even to 
  `make`
 
  # images for phong rendering process 
- 
+
+ final phong rendering image with added wooden texture to the ground ....
 ![phong_scene_textured](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/24fda539-20fd-447c-99b6-ffbea22e935f)
+
+Intermediary step for phong rendering before edits and without texture... 
+![phong_scene_before](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/d62dd3ec-f6e6-4962-9df0-914a8d2cd298)
+
+phong rendering for another scene. 
+![simple_phong_rendering](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/60ece903-b33f-41a8-b891-369e8e79a1ee)
+
+# images for binary rendering process
+
+final binary rendering images for different scenes and json files in the project 
+![binary_mirror_image](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/9c244922-b4dc-41d8-b1aa-64a3256bca83)
+
+
