@@ -1,8 +1,9 @@
 # cpp_phong_rendering
 Using cpp to perform what is called Blinn-Phong Shading rendering to the scene which is created totally using cpp ...... The scene specs including (shapes, lightsources, backgroundcolor, depth...etc) is read from a JSON file and then the rendering function works to render the scene based on the algorithm of blinn-phong .... 
 
-image for phong rendering 
-![phong_scene_textured](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/24fda539-20fd-447c-99b6-ffbea22e935f | width=100)
+<p style="text-align: center;"> Blinn-Phong rendering final image with texture </p> <br>
+<img src="https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/24fda539-20fd-447c-99b6-ffbea22e935f" alt="phong_scene_textured" width="400" style="text-align: center;">
+
 
 ## Project process
 To know more about phong rendering visit this website... [Phong Shading](https://en.wikipedia.org/wiki/Phong_shading)
@@ -23,7 +24,6 @@ Understanding the concept of phong rendering well and the structure of the code,
 - Defocus in finite aperture cameras
 - Multi-bounce path tracing
 - A video showcasing the quality of rendering process.
-- 
 
 ## compiler 
 if you are using gcc compiler then make sure to go to the directory of the src code which is ./code and run the following command after adding the json library bin folder to your environment variables. 
@@ -45,20 +45,24 @@ https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/2b20cfa9-66
  ## images for phong rendering process 
 
  final phong rendering image with added wooden texture to the ground ....
-![phong_scene_textured](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/24fda539-20fd-447c-99b6-ffbea22e935f)
+<img src="https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/24fda539-20fd-447c-99b6-ffbea22e935f" alt="phong_scene_textured" width="400">
+
 
 Intermediary step for phong rendering before edits and without texture... 
-![phong_scene_before](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/d62dd3ec-f6e6-4962-9df0-914a8d2cd298)
+<img src="https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/d62dd3ec-f6e6-4962-9df0-914a8d2cd298" alt="phong_scene_textured" width="400" style="text-align: center;">
+
 
 phong rendering for another scene. 
-![simple_phong_rendering](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/60ece903-b33f-41a8-b891-369e8e79a1ee)
+<img src="https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/60ece903-b33f-41a8-b891-369e8e79a1ee" alt="phong_scene_textured" width="400" style="text-align: center;">
+
 
 ## images for binary rendering process
 
-final binary rendering images for different scenes and json files in the project 
-![binary_mirror_image](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/9c244922-b4dc-41d8-b1aa-64a3256bca83)
-![binary_scene](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/83bbd5ba-88a0-482d-b6e5-21116b100daa)
-![binary_simple_phong](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/78008341-3eff-479f-9282-93dd2cbcaf79)
+final binary rendering images for different scenes and json files in the project <br>
+<img src="https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/9c244922-b4dc-41d8-b1aa-64a3256bca83" alt="phong_scene_textured" width="400" style="text-align: center;">
+<img src="https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/83bbd5ba-88a0-482d-b6e5-21116b100daa" alt="phong_scene_textured" width="400" style="text-align: center;">
+<img src="https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/78008341-3eff-479f-9282-93dd2cbcaf79" alt="phong_scene_textured" width="400" style="text-align: center;">
+
 
 
 
