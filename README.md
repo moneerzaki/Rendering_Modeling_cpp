@@ -15,4 +15,4 @@ More options to run binary rendering on the same file, "scene.json," or even to 
 
  # images for phong rendering process 
  
-
+![phong_scene_textured](https://github.com/moneerzaki/Rendering_Modeling_cpp/assets/78418503/24fda539-20fd-447c-99b6-ffbea22e935f)
